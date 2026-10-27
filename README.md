@@ -1,6 +1,3 @@
-Copie o conteúdo abaixo para o seu `README.md`. As medalhas representam **tecnologias em estudo e utilizadas nos projetos**. Substitua `SEU-LINK-DO-LINKEDIN` pelo endereço do seu perfil.
-
-```markdown
 <div align="center">
 
 # Gabriel Murbach Stabach 👋
@@ -98,4 +95,3 @@ Conclusão prevista: **janeiro de 2030**.
 Vamos conversar sobre tecnologia, projetos e oportunidades de estágio.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se_comigo-0A66C2?style=for-the-badge)](SEU-LINK-DO-LINKEDIN)
-```
